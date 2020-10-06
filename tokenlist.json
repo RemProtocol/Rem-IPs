@@ -1,0 +1,25 @@
+{
+  "name": "REMProto",
+  "logoURI": "https://nathanjessen.com/tokenlist/ethereum_logo.png",
+  "keywords": [
+    "audited",
+    "verified",
+    "tokens"
+  ],
+  "timestamp": "2020-09-06T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x20bf12A7bdb6d7B84069fb3b939892A301C981d1",
+      "symbol": "CZZ",
+      "name": "CZZ Coin",
+      "decimals": 18,
+      "logoURI": "https://nathanjessen.com/tokenlist/ethereum_logo.png",
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
